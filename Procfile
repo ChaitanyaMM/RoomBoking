@@ -1,1 +1,1 @@
-web:    java -jar target/RoomBooking.jar
+web:    java -cp target/classes:target/dependency/* -Dserver.port=$PORT com/roomsbooking/Controller/RoomController
