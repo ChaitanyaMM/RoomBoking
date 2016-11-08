@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* -Dserver.port=$PORT com/roomsbooking/Controller/RoomController
+web:    java -cp target/classes:target/dependency/* -Dserver.port=$PORT  
