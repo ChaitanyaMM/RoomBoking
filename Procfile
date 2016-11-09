@@ -1,2 +1,2 @@
-web: java -jar target/roombooking.jar
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/com/roomsbooking/Configuration
 
