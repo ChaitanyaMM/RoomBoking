@@ -1,2 +1,2 @@
-web java -Dserver.port=$PORT $JAVA_OPTS -jar target/pom.xml
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/webapp/WEB-INF/web.xml
 
