@@ -18,7 +18,7 @@ import com.roomsbooking.Objects.User;
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = { "com.roomsbooking" })
-@PropertySource("classpath:com/roomsbooking/Configuration/config.properties")
+//@PropertySource("classpath:com/roomsbooking/Configuration/config.properties")
 
 public class ApplicationConfig {
 
