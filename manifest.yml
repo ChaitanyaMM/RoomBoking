@@ -1,0 +1,8 @@
+---
+applications:
+- name: RoomBoking
+  memory: 1G
+  random-route: true
+  path: RoomBooking.war
+
+ 
