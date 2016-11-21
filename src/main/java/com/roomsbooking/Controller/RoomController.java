@@ -32,7 +32,8 @@ public class RoomController{
    @RequestMapping(value ="/sample",method = RequestMethod.GET)
    public String printHello() {
 	     System.out.println("sample services is Calling");
-       return "Hey Buddy !! Docker is Up and *sample services is Calling";
+       //return "Hey Buddy !! Docker is Up and *sample services is Calling";
+	   return "Hey happy birthday belated!! sharam nahi hei tuje pary do!";
    }
    
 //   @RequestMapping(path ="room/sample1",method = RequestMethod.GET)
