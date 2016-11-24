@@ -6,7 +6,7 @@
 	<artifactId>RoomBooking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-<!-- Deploying for sample checking !.. Amreeen testing it -->
+
 	<name>RoomBooking</name>
 	<url>http://maven.apache.org</url>
 
